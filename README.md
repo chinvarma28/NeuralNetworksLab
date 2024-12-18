@@ -1,2 +1,1 @@
-# NeuralNetworksLab
-lab programs from 1 to 7
+# 21AI72-NN-and-DL
